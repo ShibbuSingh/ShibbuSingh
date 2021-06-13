@@ -10,16 +10,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything you feel like!
 - 📫 How to reach me: shibbusingh88@gmail.com
+ <!--- 👯 I’m looking to collaborate on ...-->
+<!--- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
 
 <p src="https://github-readme-stats.vercel.app/api?username=ShibbuSingh&show_icons=true" alt="ShibbuSingh" /> </p>
-
+<br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
