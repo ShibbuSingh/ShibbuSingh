@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![My SQL](https://img.shields.io/badge/mysql%20-%23150458.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 
 
-![Shibbu Singh github stats](https://github-readme-stats.vercel.app/api?username=ShibbuSingh&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
+![Shibbu Singh Github stats](https://github-readme-stats.vercel.app/api?username=ShibbuSingh&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
