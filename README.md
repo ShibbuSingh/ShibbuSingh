@@ -1,4 +1,5 @@
-Hi 👋, I'm Shibbu Singh
+<h1 align="center">Hi 👋, I'm Shibbu Singh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShibbuSingh" alt="ShibbuSingh" /> </p>
 
 <!--
 **ShibbuSingh/ShibbuSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p src="https://github-readme-stats.vercel.app/api?username=ShibbuSingh&show_icons=true" alt="ShibbuSingh" /> </p>
+
+![Shibbu Singh github stats](https://github-readme-stats.vercel.app/api?username=ShibbuSingh&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
