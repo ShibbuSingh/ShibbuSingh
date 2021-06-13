@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+<br>
 
 <p src="https://github-readme-stats.vercel.app/api?username=ShibbuSingh&show_icons=true" alt="ShibbuSingh" /> </p>
-<br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
